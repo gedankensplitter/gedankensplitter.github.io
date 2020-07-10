@@ -113,6 +113,11 @@ table {
     border-spacing: 0;
 }
 
+div.disclaim {
+    color: #811;
+    font-style: italic;
+}
+
 thead {
     background: lightgrey;
 }
@@ -144,6 +149,9 @@ blockquote {
     border-left: 2px solid #cccccc;
     padding: 0.1em 1em;
     margin-left: 0.75em;
+    font-weight: bold;
+    font-style: italic;
+    background-color: #eee;
 }
 
 p {
