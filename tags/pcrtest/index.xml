@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Gedankensplitter Blog</title><link>https://gedankensplitter.github.io/post/</link><description>Gedankensplitter Blog (Posts)</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gedankensplitter.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Der Drosten-Test - allgemeinverständlich</title><link>https://gedankensplitter.github.io/post/20200726-drosten-test/</link><pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate><guid>https://gedankensplitter.github.io/post/20200726-drosten-test/</guid><description>&lt;p>Viele Menschen wissen gar nicht, wie der Drosten-Test oder allgemein PCR-Tests
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pcrtest on Gedankensplitter Blog</title><link>https://gedankensplitter.github.io/tags/pcrtest/</link><description>Gedankensplitter Blog (pcrtest)</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gedankensplitter.github.io/tags/pcrtest/index.xml" rel="self" type="application/rss+xml"/><item><title>Der Drosten-Test - allgemeinverständlich</title><link>https://gedankensplitter.github.io/post/20200726-drosten-test/</link><pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate><guid>https://gedankensplitter.github.io/post/20200726-drosten-test/</guid><description>&lt;p>Viele Menschen wissen gar nicht, wie der Drosten-Test oder allgemein PCR-Tests
 funktionieren. Deswegen eignen diese sich hervorragend zu Manipulation und
 Panikmache.&lt;/p>
 &lt;h2 id="was-zeigt-der-test">Was zeigt der Test?&lt;/h2>
@@ -22,7 +22,7 @@ Ja - aber das ist so ungefähr das Niveau auf dem die PCR-Technik arbeitet.&lt;/
 &lt;p>Es handelt sich hier um Hightech vom Allerfeinsten, mit dem geringste Spuren
 von etwas Gesuchtem (relativ) gut aufgefunden werden können.&lt;/p>
 &lt;p>Natürlich hat auch das alles seine Grenzen und Schwächen - hierzu können Sie
-im &lt;a href="../post/20200711-die-nonsens-tests/">Artikel von Konstantin Demeter und Torsten Engelbrecht&lt;/a>
+im &lt;a href="../../post/20200711-die-nonsens-tests/">Artikel von Konstantin Demeter und Torsten Engelbrecht&lt;/a>
 nähere Informationen finden.&lt;/p>
 &lt;h2 id="was-istzeigt-der-test-nicht">Was ist/zeigt der Test nicht?&lt;/h2>
 &lt;ul>
@@ -173,7 +173,7 @@ Man erzeugt also künstlich &amp;ldquo;Infektionszahlen&amp;rdquo; um die Massna
 &lt;p>In diesem Zusammenhang muss man sich noch mal vergegenwärtigen, dass die PCR extrem empfindlich ist. Das heißt, mit ihr kann man selbst kleinste Schnipsel — also DNA- oder RNA-Bruchstücke — „auflesen”. Doch mit ihr kann man eben nicht feststellen, zu welcher Art von Partikel diese Gensequenzen gehören. Das muss vorher oder in einem gesonderten Prozess bestimmt werden. Und da die PCR-Tests auf Gensequenzen „geeicht” werden, in diesem Fall auf RNA-Sequenzen, da angenommen wird, dass SARS-CoV-2 ein RNA-Virus ist, muss natürlich klar erwiesen sein, dass diese Gen-Schnipsel auch tatsächlich Teil des behaupteten Virus sind. Und um das ohne Zweifel beweisen zu können, ist eben die korrekte Isolierung und vollständige Reinigung des vermuteten Virus unabdingbare Voraussetzung.&lt;/p>
 &lt;p>Aus diesem Grund haben wir die Forscherteams der relevanten Arbeiten, die im Zusammenhang mit dem behaupteten Nachweis von SARS-CoV-2 genannt werden, unter anderem gefragt, ob die in ihren In-vitro-Studien abgebildeten elektronenmikroskopischen Aufnahmen vollständig gereinigte (purified) Viren zeigen. Doch kein einziges Team konnte diese Frage mit ja beantworten — und wohlgemerkt schrieb auch niemand zurück, die vollständige Reinigung sei kein notwendiger Schritt für einen soliden Virusnachweis. Wir erhielten nur Antworten wie „unsere elektronenmikroskopische Aufnahme zeigt kein vollständig gereinigtes Virus“ (siehe Tabelle).&lt;/p>
 &lt;figure>
-&lt;img src="../img/2020-07-11-nonsense-tests-5a6d4b92eb6477eb8c3bba29027b6068.jpg"
+&lt;img src="../../img/2020-07-11-nonsense-tests-5a6d4b92eb6477eb8c3bba29027b6068.jpg"
 alt="Antworten von Autoren einschlägiger Studien auf die Frage: „Zeigen Ihre elektronenmikroskopischen Aufnahmen vollständig gereinigte (purified) Viren?” (Quelle: Torsten Engelbrecht)"/> &lt;figcaption>
 &lt;p>Antworten von Autoren einschlägiger Studien auf die Frage: „Zeigen Ihre elektronenmikroskopischen Aufnahmen vollständig gereinigte (purified) Viren?” (Quelle: Torsten Engelbrecht)&lt;/p>
 &lt;/figcaption>
@@ -231,7 +231,7 @@ alt="Antworten von Autoren einschlägiger Studien auf die Frage: „Zeigen Ihre 
 &lt;/blockquote>
 &lt;p>Die MIQE-Richtlinien wurden unter der Ägide von Stephen A. Bustin entwickelt, Professor für Molekulare Medizin, weltweit anerkannter Experte für qPCR und Autor des Buches „A-Z of Quantitative PCR“, das als „die Bibel der qPCR“ bezeichnet wurde (49, 50). Kürzlich wies Bustin in einem Interview darauf hin, dass es alles andere als ideal sei, willkürlich hohe Cq-Werte zu verwenden, weil sie dann entweder zu niedrig ausfallen können, wodurch eigentlich valide Ergebnisse eliminiert würden, oder zu hoch, was die Wahrscheinlichkeit falsch „positiver“ Ergebnisse erhöht (&lt;a href="https://infectiousmyth.podbean.com/e/the-infectious-myth-stephen-bustin-on-challenges-with-rt-pcr/">siehe&lt;/a> Audio-Interview unten). Seiner Meinung nach sollte ein Cq in den 20ern bis 30ern angestrebt werden. Bei einem Cq über 35 würde er jedoch Bedenken anmelden, was die Zuverlässigkeit der erzielten Ergebnisse angeht (51).&lt;/p>
 &lt;figure>
-&lt;img src="../img/2020-07-11-nonsense-tests-d06b7ae6e32ea60b40d00904802d1fe9.jpg"
+&lt;img src="../../img/2020-07-11-nonsense-tests-d06b7ae6e32ea60b40d00904802d1fe9.jpg"
 alt="Audio-Interview, Bild: OffGuardian.com"/> &lt;figcaption>
 &lt;p>&lt;a href="https://infectiousmyth.podbean.com/e/the-infectious-myth-stephen-bustin-on-challenges-with-rt-pcr/">Audio-Interview&lt;/a>, Bild: OffGuardian.com&lt;/p>
 &lt;/figcaption>
@@ -315,361 +315,20 @@ alt="Audio-Interview, Bild: OffGuardian.com"/> &lt;figcaption>
 (59) Torsten Engelbrecht, Konstantin Demeter. &lt;a href="https://off-guardian.org/2020/06/27/covid19-pcr-tests-are-scientifically-meaningless/">COVID19 PCR Tests are Scientifically Meaningless&lt;/a>, OffGuardian, 27. Juni 2020&lt;/p>
 &lt;p>&lt;strong>Redaktionelle Anmerkung:&lt;/strong> Dieser Artikel ist ursprünglich am 27. Juni 2020 im &lt;em>OffGuardian&lt;/em> auf Englisch erschienen (59). Die Übersetzung erfolgte durch die Autoren und wurde am 11. Juni auf Rubikon &lt;a href="https://www.rubikon.news/artikel/die-nonsens-tests">veröffentlicht&lt;/a>.&lt;/p>
 &lt;figure>&lt;a href="https://rubikon.news/autoren/konstantin-demeter">
-&lt;img src="../img/2020-07-11-nonsense-tests-e63703f94ed4cc3e6e8ecb74b3ff7c68.jpg"
+&lt;img src="../../img/2020-07-11-nonsense-tests-e63703f94ed4cc3e6e8ecb74b3ff7c68.jpg"
 alt="Konstantin Demeter"/> &lt;/a>&lt;figcaption>
 &lt;p>&lt;strong>Konstantin Demeter&lt;/strong> ist selbständiger Fotograf und unabhängiger Forscher. Er ist vor allem im Kulturbereich beschäftigt und war von 2013 bis 2018 für die Schweizer &lt;strong>Vollgeld-Initiative&lt;/strong> tätig. Er engagiert sich im Vorstand des &lt;strong>Forums Geldpolitik&lt;/strong> und in der Mediengruppe des Vereins &lt;strong>Stop 5G Ticino&lt;/strong>.&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
 &lt;figure>&lt;a href="https://rubikon.news/autoren/torsten-engelbrecht">
-&lt;img src="../img/2020-07-11-nonsense-tests-77be448a9c2fdbc1c7302a01c25508e5.jpg"
+&lt;img src="../../img/2020-07-11-nonsense-tests-77be448a9c2fdbc1c7302a01c25508e5.jpg"
 alt="Torsten Engelbrecht"/> &lt;/a>&lt;figcaption>
 &lt;p>&lt;strong>Torsten Engelbrecht&lt;/strong> arbeitet als Journalist in Hamburg. Für seinen Artikel „Die Amalgam-Kontroverse“ erhielt er 2009 den Alternativen Medienpreis. Seine Ausbildung machte er bei der Medienfachzeitschrift &lt;strong>Message&lt;/strong>. Fester Redakteur war er unter anderem bei der &lt;strong>Financial Times Deutschland&lt;/strong>. Als freier Journalist hat er Artikel verfasst für Publikationen wie &lt;strong>Medical Hypotheses&lt;/strong>, &lt;strong>SZ&lt;/strong>, &lt;strong>NZZ&lt;/strong>, &lt;strong>FAS&lt;/strong>, &lt;strong>WamS&lt;/strong>, &lt;strong>Freitag&lt;/strong>, &lt;strong>taz&lt;/strong>, &lt;strong>Telepolis&lt;/strong>, &lt;strong>Geo Saison&lt;/strong> und &lt;strong>The Ecologist&lt;/strong>. 2006 erschien das Buch &lt;a href="https://www.torstenengelbrecht.com/buecher/virus-wahn/">Virus-Wahn&lt;/a>, dessen Mit-Autor er ist. Weitere Informationen unter &lt;a href="http://www.torstenengelbrecht.com">www.torstenengelbrecht.com&lt;/a>&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
 &lt;figure class="no-border">&lt;a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">
-&lt;img src="../img/2020-07-11-nonsense-tests-ic-cc-3328fe794e7dfbff5a441672472cde808f6df46243cbf1f47ee8af7f2323c264.png"
+&lt;img src="../../img/2020-07-11-nonsense-tests-ic-cc-3328fe794e7dfbff5a441672472cde808f6df46243cbf1f47ee8af7f2323c264.png"
 alt="Creative Commons Lizenzvertrag"/> &lt;/a>&lt;figcaption>
 &lt;p>Dieses Werk ist unter einer &lt;strong>Creative Commons-Lizenz&lt;/strong> (&lt;a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International&lt;/a>) lizenziert. Unter Einhaltung der Lizenzbedingungen dürfen Sie es verbreiten und vervielfältigen.&lt;/p>
 &lt;/figcaption>
-&lt;/figure></description></item><item><title>Vertrauen</title><link>https://gedankensplitter.github.io/post/20200624-vertrauen/</link><pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate><guid>https://gedankensplitter.github.io/post/20200624-vertrauen/</guid><description>&lt;p>Die diversen Aufrufe von Politikern, Informationen aus &amp;ldquo;dubiosen&amp;rdquo; Quellen
-nicht zu vertrauen, sondern sich auf die &amp;ldquo;offiziellen&amp;rdquo; Informationen
-zu beziehen sind langsam lächerlich.&lt;/p>
-&lt;p>Die Politiker tun alles, um das Restvertrauen der Bevölkerung in offizielle
-Quellen aktiv zu zerstören.&lt;/p>
-&lt;h2 id="kampfbegriffe">Kampfbegriffe&lt;/h2>
-&lt;p>Weil nicht sein kann, was nicht sein darf wird heute jeder, der eine
-abweichende Meinung publikumswirksam vertritt wahlweise als
-Verschwörungstheoretiker, Antisemit oder auch gleich als Nazi verunglimpft
-oder lächerlich gemacht. Das wird auch noch stolz verkündet, z.B. vom
-&amp;ldquo;Journalisten&amp;rdquo; Tilo Jung:&lt;/p>
-&lt;blockquote>
-&lt;p>Als Journalisten haben wir gelernt, Leugnern des menschengemachten
-Klimawandels medial zu ignorieren, sie lächerlich zu machen
-und ihnen keine (gleichberechtigte) Plattform zu bieten. Das
-müssen wir nun auch bei den Feinstaubbelastungsleugnern schaffen!&lt;br>
-(auf Twitter am 28. Januar 2019)&lt;/p>
-&lt;/blockquote>
-&lt;p>Dass dieses Vorgehen bei der schnell wechselnden &amp;ldquo;offiziellen&amp;rdquo; Haltung
-jeden treffen kann und am sichtbarsten eben auch auf die Bundesregierung
-und ihre Hofberichterstatter die Medien zutrifft macht dieses Agieren so
-gefährlich.&lt;/p>
-&lt;p>Argumente und Diskussion werden durch festgelegte Sichtweisen verdrängt,
-denen sich jeder unterordnen muss - es sei denn er ist bereit massiven
-sozialen Druck und Aktionen, die bis zur ökonomischen Existenzvernichtung
-reichen, zu akzeptieren. Meine Hochachtung gilt allen, die diesem
-Druck standhalten und sich nicht beugen.&lt;/p>
-&lt;p>Es geht schon längst nicht mehr um &amp;ldquo;die Sache&amp;rdquo; sondern einzig und allein
-darum, dass die Regierung ihre katastrophale Entscheidung zum Lockdown
-und zur begleitenden Panikmache in der Bevölkerung rechtfertigen kann.&lt;/p>
-&lt;p>Sollte nämlich eine Diskussion entstehen, würde sehr schnell klar werden,
-dass das &amp;ldquo;Krisen&amp;rdquo;-Management der Bundesregierung im besten Fall stümperhaft
-aber eigentlich katastrophal war, wenn man nicht sogar böse Absicht
-unterstellen will.&lt;/p>
-&lt;p>Die Bundesregierung hat im März eine Kehrtwende sondergleichen hingelegt.
-Erst Beschwichtigungen - alles nicht so schlimm, wir sind bestens vorbereitet,
-Willkür-Maßnahmen in China etc. - dann die Entscheidung zum Lockdown, als
-es einerseits längst zu spät und andererseits die Gefahrenlage schon
-realistisch einschätzbar war. In Bayern hat man mal eben noch
-seine Starkbier-Feste und die Wahl durchgezogen. Danach die härtesten
-Maßnahmen der Republik, bei denen sich seine Majestät Herr Söder als der
-Macher verkaufte.&lt;/p>
-&lt;p>Noch 7 Tage vor dem Lockdown tönte die Regierung, es gäbe Fake-News die
-kommende einschneidende Maßnahmen der Regierung ankündigen - man solle doch
-bitte nur den offiziellen (=seriösen) Quellen vertrauen:&lt;/p>
-&lt;blockquote>
-&lt;p>! Achtung FAKE-NEWS !&lt;br>
-Es wird behauptet und rasch verbreitet, das Bundesministerium
-für Gesundheit / die Bundesregierung würde bald massive weitere
-Einschränkungen des öffentlichen Lebens ankündigen. Das stimmt NICHT!&lt;/p>
-&lt;/blockquote>
-&lt;p>Eine Woche
-später waren die Maßnahmen da und auf einmal war jeder, der deren
-Notwendigkeit anzweifelte ein Verschwörungstheoretiker und
-Fake-News-Verbreiter.&lt;br>
-Vertrauen in die Regierung? Wieso, frage ich mich?&lt;/p>
-&lt;h2 id="historie">Historie&lt;/h2>
-&lt;p>Natürlich ist es nicht neu, dass die Regierung verschweigt, ablenkt,
-lügt und betrügt.&lt;/p>
-&lt;p>Hier einige frühere Beispiele:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>Im Einigungsvertrag zwischen der BRD und der DDR wird die Sicherung des
-Friedens und die Achtung der territorialen Integrität jedes Landes
-betont.&lt;br>
-Schon kurze Zeit nach der Übernahme der DDR förderte die Bundesregierung
-aktiv nationalistische
-Bestrebungen in den Republiken Jugoslawiens und sorgte durch schnelle
-Anerkennung der entstandenen Staaten für eine Zementierung der
-Verhältnisse. Die Folge waren verheerende Kriege, die bis heute
-eine traumatisierte Bevölkerung, verminte Landstriche und vergiftete
-Umgebungen hinterlassen haben. Vom geschürten Hass zwischen den
-Bevölkerungsgruppen gar nicht erst zu reden.&lt;br>
-Höhepunkt dieser verbrecherischen Politik war der völkerrechtswidrige
-Angriff auf Serbien durch die Nato. Die ersten Angriffswellen der
-Bombardierung wurden auch durch deutsche Piloten geflogen.&lt;br>
-Vorbereitet wurde der Angriffskrieg durch (nachgewiesene) Lügen des
-damaligen Verteidigungsministers Rudolf Scharping der dafür nie
-vor Gericht gestellt wurde. Der nicht kriegswilligen Bevölkerung der
-BRD wurde der Angriff durch den grünen Kriegshetzer Joseph Fischer,
-der in seiner Rhetorik seinem Namensvetter Goebbels in nichts nachstand,
-als rechtmäßig und notwendig verkauft.&lt;br>
-Der einzig richtige Platz für diesen Vorzeige-Grünen wäre vor einem
-serbischen Kriegsgericht.&lt;br>
-Zusammenfassung: Die Bundesregierung ist mitverantwortlich für endloses
-Leid der Bevölkerung Jugoslawiens und mitschuldig an der Führung eines
-völkerrechtswidrigen Angriffskrieges.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Keinem wird es schlechter gehen! - oder - die blühenden Landschaften.&lt;br>
-Beides den DDR-Bürgern vom damaligen Bundeskanzler Helmut Kohl versprochen
-und von vielen naiv geglaubt.&lt;br>
-Die Realität: Eine Menge Dauerarbeitslose, Arbeit im Niedriglohn-Sektor,
-Massenabwanderung gut Gebildeter, Ausradierung des dörflichen und
-kleinstädtischen Lebens, systematische Entwertung der Lebensleistung
-von Millionen Menschen. Zusätzlich die Erfahrung, dass die &amp;ldquo;guten&amp;rdquo;
-Jobs von Wessis besetzt werden, die in ihrer Heimat nichts erreichen konnten.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Passend zum aktuellen Corona-Hype: Die Schweinegrippe wurde hochstilisiert
-zu einer alles erfassenden Pandemie mit Millionen Toten. In Deutschland
-wurden aufgrund der Panikmache eine Menge Menschen mit einem Impfstoff
-geimpft, der sich im Nachhinein als problematisch erwies. Die Aktion war
-ein Milliardengeschäft für die Pharma-Konzerne, bezahlt vom Steuerzahler.
-Am Ende war nichts bemerkenswertes geschehen - die Zahl der Opfer (weltweit)
-verschwindend gering.&lt;br>
-Pikantes Detail: Die Regierung und alle, die es sich leisten konnten
-bekamen einen &amp;ldquo;besseren&amp;rdquo; Impfstoff als der Rest der Bevölkerung.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Finanzkrise: Die Regierung verbreitete im Chor mit den Medien das Märchen
-der faulen Griechen und der gewaltigen Lasten, die Deutschland wegen
-dieser zu tragen hätte. Griechenland wurde im Ergebnis durch die Troika
-geplündert und seine Bevölkerung wurde in Massenarmut getrieben.
-Natürlich immer mit der Möglichkeit, sich Filetstücke der griechischen
-Wirtschaft, die vorher per Gesetz geschützt waren, billig unter den Nagel
-zu reissen.&lt;br>
-Wer waren die Gewinner? Deutschland und andere Kreditgeber haben an den
-Krediten auch noch verdient. Kein Wunder, dass Merkel in Griechenland
-als der neue Hitler angesehen wird.&lt;br>
-Den Deutschen wurde all das als &amp;ldquo;Hilfe&amp;rdquo; und quasi als Barmherzigkeit
-verkauft, für die man natürlich gewisse Bedingungen stellen könne. &lt;br>
-Im Zuge der &amp;ldquo;Corona-Krise&amp;rdquo; geht die Geschichte noch einmal weiter: die Fraport AG
-hatte sich auch am griechischen Kuchen in Form von Flughäfen bedient. Da
-durch Käufer und/oder Troika für den Fall &amp;ldquo;höherer Gewalt&amp;rdquo; eine Übernahme von
-Gewinn-Ausfällen durch den griechischen Staat erzwungen wurde, fordert die
-Fraport AG inzwischen Millionen vom griechischen Steuerzahler, da die Umsätze
-und Gewinne infolge der Corona-Maßnahmen eingebrochen sind. &lt;br>
-So gehen Neo-Kolonialismus und Solidarität in Europa.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Die Ukraine: Auch hier war die Bundesregierung wieder an vorderster
-Front, um die Ukraine aus der vorhandenen Bindung an Russland zu lösen.
-Das Ergebnis war ein Putsch ultranationalistischer und faschistischer
-Kräfte, die in der Folge zur Abspaltung des Ostens der Ukraine und
-zu einem verlustreichen Bürgerkrieg geführt haben. Maßgeblich beteiligt
-ist auch unser Herr Bundespräsident Steinmeier, der zumindest
-indirekt die Verantwortung für tausende Tote des Bürgerkriegs, die
-vielen Morde wie z.B. in Odessa und die extremen Lebensbedingungen
-der östlichen Landesteile der Ukraine trägt.&lt;br>
-Verkauft wurde das den Deutschen als ein Aufbruch in die Demokratie und
-als Schlappe für den &amp;ldquo;Despoten&amp;rdquo; Putin. &lt;br>
-Dass sich Steinmeier beim Staatsbesuch von Einheiten mit SS-Symbolen
-empfangen lässt spricht Bände.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Etwas weiter zurück: Die Hartz-Gesetze. Verkauft als eine Grundsicherung
-und &amp;ldquo;Fördern und Fordern&amp;rdquo;. Was für ein Hohn!&lt;br>
-Die Grundsicherung erfüllt (wenn sie es jemals getan hat) schon sehr,
-sehr lange ihre Funktion nicht
-mehr - die notwendigen Tafeln (eine Schande für Deutschland!) sprechen
-Bände.&lt;br>
-Zudem hat sich bei den Jobcentern eine Sanktionierungspraxis
-eingebürgert, die den Menschen bei &lt;strong>Nicht-Gehorchen&lt;/strong> jede &lt;strong>Lebensgrundlage
-entziehen&lt;/strong> kann - bis zu 100%. Es gibt zwar inzwischen ein Urteil des
-Bundesverfassungsgerichts dagegen, aber auch das beinhaltet schwere
-Kürzungen und diverse Politiker haben angekündigt, das einfach zu
-ignorieren.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Die Schaffung eines Niedriglohn-Sektors in Deutschland wird von der
-Bundesregierung als Ursache für die niedrige Arbeitslosigkeit angeführt.&lt;br>
-Das ist so pervers, dass es mich jedesmal wütend macht. Massiv eingeführt
-wurden die Niedriglöhne übrigens von der SPD - Schröder und Müntefering
-wären hier zu nennen. Aber die SPD war schon immer der Verräter der
-Arbeiter-Interessen, das wird sich auch nie ändern.&lt;br>
-Dieser Niedriglohn-Sektor führt zu einer ungeheuren Verelendung eines
-großen Teils der Bevölkerung und natürlich auch zu daraus resultierender
-Alters-Armut. Die Bundesregierung zieht sogar diesen Leuten noch das
-Geld aus der Tasche, indem sie für Riester-Produkte wirbt, die dieser
-Bevölkerungsschicht nichts, aber auch gar nichts nützen - im Gegenteil.&lt;br>
-Geht es noch perverser?&lt;br>
-Unser Niedriglohn-Sektor ist übrigens auch der Sprengstoff, der die
-EU auseinanderreissen könnte - der Export-Überschuss Deutschlands, der
-auf diesem Niedriglohnsektor basiert, ist eine gewaltige Gefahr für
-die anderen Volkswirtschaften der EU und für das gemeinsame Währungsystem.
-Auf Deutsch: Deutschlands Wirtschaft gepaart mit der Bundesregierung
-agiert hier asozial gegen die deutsche Bevölkerung und gegen die EU-Partner.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Von deutschem Boden soll nie wieder Krieg ausgehen.&lt;br>
-Schöne Worte. Inzwischen heisst das &amp;ldquo;Logistische Hilfe&amp;rdquo;, &amp;ldquo;Friedenssicherung&amp;rdquo;,
-&amp;ldquo;Verhinderung von Menschenschmuggel&amp;rdquo; oder auch mal &amp;ldquo;robustes Mandat&amp;rdquo;.&lt;br>
-Gemeint sind immer Auslandseinsätze der Bundeswehr, die aus gutem Grund
-einmal per Grundgesetz verboten waren. &lt;br>
-Nach dem Sündenfall des völkerrechtswidrigen Angriffs auf Serbien gab es
-eine Unmenge an Einsätzen im Ausland, selbst am Hindukusch wird
-&amp;ldquo;unsere Freiheit verteidigt&amp;rdquo;.&lt;br>
-Neben den direkten Kampf-Einsätzen, die auch tote deutsche Soldaten und
-Kriegsverbrechen deutscher Offiziere beinhalten, haben wir da natürlich
-auch noch die US-Basen in Deutschland, über die zum Beispiel die
-Drohnen-Morde in anderen Ländern abgewickelt werden. &lt;br>
-Inzwischen will unsere Regierung sogar selbst in das Tötungsgeschäft
-einsteigen: die Anschaffung bewaffneter Drohnen ist geplant und wird
-ziemlich sicher auch durchgesetzt.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>Ich will die Liste nicht zu lang werden lassen. Ich frage mich nur,
-warum um aller Welt noch irgendjemand der Bundesregierung oder auch
-den Oppositions-Parteien in Deutschland vertraut. Es erschliesst sich
-mir nicht.&lt;/p>
-&lt;p>Wer übrigens einmal Real-Kabarett sehen möchte: die Bundespressekonferenz
-wird auch im Fernsehen übertragen.&lt;/p></description></item><item><title>Masken runter!</title><link>https://gedankensplitter.github.io/post/20200610-masken-runter/</link><pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate><guid>https://gedankensplitter.github.io/post/20200610-masken-runter/</guid><description>&lt;p>Ich bin traurig und enttäuscht.&lt;/p>
-&lt;p>Nicht, weil die Welt es mal wieder mit einem Virus zu tun hat, so wie schon millionenfach
-vorher. Nein, ich bin traurig weil es jede Menge Menschen gibt, die scheinbar vor Panik
-und Angst nicht mehr klar denken können.&lt;/p>
-&lt;p>Seit spätestens Mitte April (eigentlich schon Ende März) ist klar, daß es sich bei SARS-CoV2
-nicht um das Killervirus handelt als das es uns die Politik verkaufen will.&lt;/p>
-&lt;h2 id="kein-killervirus">Kein Killervirus&lt;/h2>
-&lt;p>Die einzige verläßliche Zahl zum Messen der Gefährlichkeit ist die Anzahl der Toten.&lt;br>
-Da die &lt;strong>Zuordnung&lt;/strong> der Krankheit Covid-19 als Todesursache &lt;strong>nach&lt;/strong> völlig &lt;strong>willkürlichen und
-größtenteils unseriösen Kriterien&lt;/strong> erfolgt bleibt als einzige meßbare Größe für die Auswirkungen
-des Virus die sogenannte Übersterblichkeit, die insgesamt fast nicht meßbar ist und zum Beispiel
-in Deutschland geringer ausfällt als in diversen Vorjahren in denen es nicht einmal eine
-Randnotiz zu diesem Thema gab.&lt;/p>
-&lt;p>Es ist eine Schande, daß die Killervirus-Doktrin nirgends infrage gestellt wird bzw. daß diejenigen
-die es tun sofort als Idioten/Spinner/Rechte/Verschwörungstheoretiker oder sonstiges diffamiert
-werden. Dabei handelt es sich hier um &lt;strong>die grundlegende Frage zum Umgang mit dem Virus&lt;/strong> - und die
-darf nicht einmal diskutiert werden?&lt;/p>
-&lt;p>Ich meine nicht, dass das Virus ungefährlich ist. Auch die Grippe-Viren sind gefährlich. Trotzdem
-haben wir die jedes Jahr (meistens ohne Impfung) einfach über uns ergehen lassen.&lt;br>
-Und Überraschung: Auch dabei sterben Menschen, die ein geschwächtes Immunsystem haben.&lt;/p>
-&lt;ul>
-&lt;li>Ja - das Virus ist für viele Menschen gefährlich, so wie auch die Grippe-Viren (und andere).&lt;/li>
-&lt;li>Ja - es gibt regionale Unterschiede in der Übersterblichkeit - aber niemand macht sich die Mühe
-herauszufinden was die Ursachen dafür sind.&lt;/li>
-&lt;li>Ja - ältere Menschen und solche mit Vorerkrankungen sind stärker gefährdet.&lt;/li>
-&lt;li>Ja - es gibt extreme Häufungen von Todesfällen in Pflegeheimen - die Ursachen dafür
-werden aber bei solchen Meldungen immer verschwiegen.&lt;/li>
-&lt;/ul>
-&lt;h2 id="macht-der-bilder-bergamo">Macht der Bilder: Bergamo&lt;/h2>
-&lt;p>Bei jeder Diskussion zum Thema kriegt man als jemand, der die Killervirus-Doktrin ablehnt
-den Verweis auf Bergamo:&lt;/p>
-&lt;ul>
-&lt;li>die chaotischen Krankenhaus-Szenen&lt;/li>
-&lt;li>die Militärfahrzeuge die Särge abtransportieren&lt;/li>
-&lt;li>die große Anzahl der Todesfälle&lt;/li>
-&lt;li>die vielen Todesfälle beim Krankenhaus-Personal&lt;/li>
-&lt;li>die vielen Toten in den Pflegeheimen&lt;/li>
-&lt;/ul>
-&lt;p>Das sieht alles nicht nur schrecklich aus, es ist auch schrecklich.
-Um die Meldungen richtig einordnen zu können ist aber etwas zusätzliche Information
-notwendig:&lt;/p>
-&lt;ul>
-&lt;li>Die Situation in Italiens Krankenhäusern ist in jedem Frühjahr dramatisch. Das einst
-sehr gut aufgestellte Gesundheitswesen wurde wortwörtlich zerstört - durch Spar-Zwänge,
-die der IWF dem italienischen Staat diktiert hat.&lt;br>
-Die Krankenhäuser sind inzwischen so schlimm, dass die Italiener Angst haben, sich
-dort behandeln zu lassen.&lt;/li>
-&lt;li>Die Gegend um Bergamo gehört zu den Gebieten Europas mit der höchsten &lt;strong>Luftverschmutzung&lt;/strong>.
-Das forciert Atemwegserkrankungen. Zudem wurde dort bis Ende der 90er Jahre &lt;strong>Asbest&lt;/strong>
-produziert - zu einem Zeitpunkt als Asbest fast überall in Europa schon verboten war.
-Es ist nicht undenkbar, dass Covid-19 durch diese Vorbedingungen begünstigt wird.&lt;br>
-Zur Wechselwirkung von Nano-Partikeln mit Viren forschen auch zwei italienische Ärzte, denen
-allerdings im Rahmen der &amp;ldquo;Corona-Krise&amp;rdquo; der Zugang zu ihrem Elektronenmikroskop
-verwehrt wurde. Nach deren Ansicht ist eine Wechselwirkung der Partikel aus der
-dreckigen Luft mit dem SARS-CoV2-Virus durchaus wahrscheinlich.&lt;/li>
-&lt;li>In Italien sind &lt;strong>Erdbestattungen&lt;/strong> üblich. Die Behörden haben aber die Verbrennung
-der &amp;ldquo;Corona-Toten&amp;rdquo; angeordnet. Für die anfallende Menge stehen einfach nicht genügend
-Krematorien zur Verfügung. Die Toten müssen also zu entfernteren Krematorien transportiert
-werden. &amp;ldquo;Normale&amp;rdquo; Speditionen fielen dafür natürlich aus den bekannten Gründen (Lockdown)
-aus. Deswegen Militärtransporte.&lt;/li>
-&lt;li>Auch in Italien wurde von Politik und Medien Panik bzgl. des Virus verbreitet. Kein Wunder,
-wenn dann Tausende, die ein wenig Fieber und einen Schnupfen haben die Krankenhäuser
-aufsuchen, diese überlasten und sich dort vielleicht erst noch infizieren.&lt;/li>
-&lt;li>Es gibt eigentlich keine vernünftige Behandlung des Virus. Trotzdem wurden diverse &lt;strong>Medikamente&lt;/strong>
-(auch ohne richtige Zulassung) an den infizierten Patienten &amp;ldquo;&lt;strong>ausprobiert&lt;/strong>&amp;quot;. Dies wurde
-auch dann gemacht, wenn noch gar keine Krankheitssymptome vorlagen - zum Beispiel beim medizinischen
-Personal.&lt;br>
-Insbesondere hohe Dosen von Hydroxychlorochin und Chlorochin galten als erfolgversprechend
-und wurden massiv (auch präventiv - siehe Donald Trump) verabreicht. In südlichen Ländern ist
-aber das vielfach tödlich, nämlich dann wenn ein vor Malaria schützender Defekt (G6PD-Mangel)
-vorliegt. In diesem Fall ist eine Behandlung mit diesen Mitteln (und z.B. auch mit hohen
-Vitamin-C-Dosen) fast ein Todesurteil. Hier kann man also mit einiger Wahrscheinlichkeit
-annehmen, daß viele Menschen durch die Behandlung getötet wurden und nicht am Virus verstorben
-sind. Auch diese Menschen ersticken - aber nicht wegen Lungenentzündung sondern wegen starker
-Schädigung der roten Blutkörperchen.&lt;br>
-Ähnliche Beobachtungen (Schäden durch Behandlung) wurden in Deutschland bezüglich der
-empfohlenen(!) schnellen Behandlung durch Zwangsbeatmung gemacht. Patienten, die sich weigerten
-beatmet zu werden wurden wieder gesund während ein Großteil der Beatmeten verstarb.&lt;br>
-Dazu muß man wissen, dass die invasive Beatmung in einem künstlichen Koma und
-mit einem wegen der Abwehr des eingeführten Schlauchs heruntergefahrenen(!)
-Immunsystem durchgeführt wird. Der Schlauch ist dann das Einfallstor für Bakterien.&lt;br>
-Auch &lt;strong>Menschen die das überleben sind danach oft schwer geschädigt&lt;/strong>. &lt;br>
-Die Empfehlung der invasiven Beatmung soll dem Schutz des Krankenhauspersonals
-vor Viren in ausgeatmeten Aerosolen dienen. Etwas, das ohne Schädigung der
-Patienten auch anders realisierbar ist, zumal die Infizierung über Aerosole
-bis jetzt nicht nachgewiesen und extrem unwahrscheinlich ist.&lt;/li>
-&lt;li>Zu den Pflegeheimen: nahezu überall wurde der &lt;strong>Schutz der Alten&lt;/strong> beschworen. Genau das Gegenteil
-wurde gemacht. In Pflegeheimen arbeiteten Pflegerinnen und Pfleger ohne Schutzausrüstung, ohne daß
-sie getestet wurden und teilweise unter häufigem Personenwechsel (Pflege zu Hause). Das ist
-an vielen Stellen gut dokumentiert. Der vielbeschworene Schutz war also eine Luftnummer.&lt;br>
-In Bergamo kam dazu noch verschärfend hinzu: Das überbelegte Krankenhaus wollte Patienten in
-andere Krankenhäuser verlegen, die weigerten sich jedoch die Patienten anzunehmen (Solidarität?).&lt;br>
-Also verlegte man die Covid-19-Patienten in die Pflegeheime der Umgebung (Angaben des leitenden
-Klinik-Arztes). Man könnte das schon Mord nennen, oder?&lt;/li>
-&lt;/ul>
-&lt;p>Die Häufungen von Todesfällen in anderen Regionen (Madrid, New York, &amp;hellip;) wären auch genauere
-Betrachtungen wert. Ich bin mir sicher, dass man Erklärungen abseits des &amp;ldquo;Killervirus&amp;rdquo; finden kann.
-Vor allem in New York wurde ebenfalls Hydroxychlorochin breit angewendet und der überproportionale
-Anteil von Schwarzen an den Toten deutet auf das Problem G6PD-Mangel hin.
-In Spanien gab es sogar Tote in Pflegeheimen, die einfach verdurstet sind weil das Personal nicht
-mehr zum Dienst kam (Schutz der Alten?).&lt;/p>
-&lt;p>Ergänzung (01.07.2020):&lt;br>
-Auch in New York wurden Covid-19-Erkrankte in Pflegeheime eingewiesen, was dort zu einem
-Massensterben geführt hat (siehe Seite 10 von
-&lt;a href="https://www.medrxiv.org/content/10.1101/2020.05.13.20101253v1.full.pdf">Dr. Ioannidis Meta-Analyse&lt;/a>).&lt;/p>
-&lt;h2 id="zurück-zur-maske-und-zum-denken">Zurück zur Maske und zum Denken&lt;/h2>
-&lt;p>Wir haben kein Killer-Virus.&lt;/p>
-&lt;p>Wir haben:&lt;/p>
-&lt;ul>
-&lt;li>mehr Tote durch Grippe&lt;/li>
-&lt;li>viel mehr Tote durch Rauchen&lt;/li>
-&lt;li>viel mehr Tote durch Alkohol&lt;/li>
-&lt;li>viel mehr Tote durch falsche Ernährung und wenig Bewegung&lt;/li>
-&lt;li>&lt;strong>schon allein die Zahl der verhungerten Kinder&lt;/strong> übersteigt die Zahl der Covid-19-Toten bei weitem!&lt;/li>
-&lt;/ul>
-&lt;p>Niemanden in Politik und Medien interessiert das! Es ist als Thema einfach unsexy.&lt;/p>
-&lt;p>Die aktuellen Infektions-Zahlen des Robert-Koch-Instituts spiegeln nur noch das Rauschen der
-verwendeten Tests wider. Es gibt nicht einen einzigen Grund, die Maßnahmen aufrecht zu erhalten
-(ebenso wie ihre Einführung nicht notwendig war).&lt;/p>
-&lt;p>Es kann nur niemand in der Politik zugeben, daß das Ganze ein Fehler war. Deswegen muß
-man die Gefahr weiter an die Wand malen und die Menschen mit sinnlosen Maßnahmen drangsalieren.&lt;/p>
-&lt;p>Eine Maske nützt Ihnen heute gar nichts mehr. Die Virus-Welle ist durch. Sie schädigen sich
-unter Umständen nur selbst, wenn sie die Maske tragen.&lt;/p>
-&lt;p>Und hier komme ich wieder zu meinem Anfangssatz zurück: es macht mich traurig, wenn ich
-auf der Straße bei Sonne und Wind Menschen mit Masken herumlaufen sehe (in über hundert Metern Abstand
-zu anderen Menschen). Die haben leider nichts verstanden.&lt;/p>
-&lt;p>Die übliche Maske:&lt;/p>
-&lt;ul>
-&lt;li>nützt sowieso fast nichts&lt;/li>
-&lt;li>falls sie nützt, dann schützt sie andere Menschen vor Ihnen und nicht umgekehrt&lt;/li>
-&lt;li>ist im Freien mit Abstand zu anderen Menschen völlig sinnlos. Das gilt für jede Maske.&lt;/li>
-&lt;li>ist eine Zumutung wenn sie länger getragen werden muß&lt;/li>
-&lt;li>ist ein Sammelbecken für Bakterien und Pilze, wenn man sie nicht oft wechselt und
-penibel hygienisch reinigt - also ein Gesundheitsrisiko&lt;/li>
-&lt;li>verringert den Sauerstoffgehalt der geatmeten Luft und erhöht den CO2-Anteil - das
-schädigt Ihren Körper und verringert Ihre Leistungsfähigkeit&lt;/li>
-&lt;li>beeinträchtigt massiv die zwischenmenschliche Kommunikation&lt;/li>
-&lt;/ul>
-&lt;p>Also: &lt;strong>Maske runter!&lt;/strong> Die einzige Gefahr, die Ihnen dadurch droht ist, sich gleich Ärger
-mit &amp;ldquo;pflichtbewußten&amp;rdquo; Bürgern einzuhandeln.&lt;/p></description></item></channel></rss>
+&lt;/figure></description></item></channel></rss>
