@@ -1,4 +1,209 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gedankensplitter Blog</title><link>https://gedankensplitter.github.io/</link><description>Gedankensplitter Blog</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gedankensplitter.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Angst</title><link>https://gedankensplitter.github.io/post/20200922-angst/</link><pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate><guid>https://gedankensplitter.github.io/post/20200922-angst/</guid><description>&lt;p>Viele merken es - Angst hat sich über die Bundesrepublik gelegt. Für die noch vorhandenen
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gedankensplitter Blog</title><link>https://gedankensplitter.github.io/</link><description>Gedankensplitter Blog</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gedankensplitter.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Selbstschutz</title><link>https://gedankensplitter.github.io/post/20201116-selbstschutz/</link><pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate><guid>https://gedankensplitter.github.io/post/20201116-selbstschutz/</guid><description>&lt;p>Der Staat und mächtige Unternehmen benutzen unsere Daten und das vor allem &lt;strong>gegen uns&lt;/strong>!&lt;br>
+Hören wir auf, Ihnen diese freiwillig zu liefern!&lt;/p>
+&lt;p>Für jeden, der bei diesem Thema meint &amp;ldquo;ich habe ja nichts zu verbergen&amp;rdquo;
+zur Einleitung ein Zitat des ehemaligen CIA-Direktors Michael Hayden:&lt;/p>
+&lt;blockquote>
+&lt;p>Wir töten Menschen auf der Basis von Metadaten.&lt;/p>
+&lt;/blockquote>
+&lt;p>Was Metadaten sind, erkläre ich gleich.&lt;/p>
+&lt;h1 id="alltägliche-wanzen">Alltägliche &amp;ldquo;Wanzen&amp;rdquo;&lt;/h1>
+&lt;p>Zum alltäglichen Leben gehört heutzutage auch die Kommunikation über
+elektronische Geräte - Computer, SmartPhones, Tablets und jede Menge
+intelligente Geräte.&lt;br>
+Vor allem diese intelligenten Geräte sind es, die Unternehmen jede Menge
+Daten über uns liefern. Sprachsteuerung ist heute der Stand der Technik
+und fast überall sind Mikrofone eingebaut.&lt;/p>
+&lt;p>Das, was dem Ministerium für Staatssicherheit der DDR massiv vorgeworfen
+wurde, ist in der Tat ein &amp;ldquo;Fliegenschiß&amp;rdquo; der Geschichte verglichen mit dem,
+was heute passiert. Heute holen sich die Leute freiwillig eine Art
+&amp;ldquo;Super-Mega-Stasi&amp;rdquo; ins Haus und füttern die Unternehmen auch noch permanent
+mit ihren intimsten Daten. Hierbei denke ich an Schlaf-Apps, Gesundheits-Apps,
+Menstruations-Apps (ja, so etwas gibt es!), Apps für mentale Probleme
+oder auch einfach die &amp;ldquo;intelligente&amp;rdquo; Waage die ihre Ergebnisse an den
+Cloud-Dienst des Anbieters schickt, damit sich der Benutzer auf seinem
+SmartPhone die Auswirkungen des letzten Freß-Anfalls ansehen kann.&lt;/p>
+&lt;h1 id="kommunikations-überwachung">Kommunikations-Überwachung&lt;/h1>
+&lt;p>Aber auch die ganz normale Kommunikation wird durchleuchtet:&lt;/p>
+&lt;ul>
+&lt;li>E-Mails werden automatisiert ausgewertet. Google bewirbt das sogar
+ganz offen damit, dass dann dem Benutzer relevantere Werbung angezeigt
+werden kann.&lt;br>
+Bei jedem kostenlosen E-Mail-Provider kann man damit rechnen, dass die
+Mails analysiert werden - Ausnahmen wie ProtonMail gibt es allerdings auch.&lt;/li>
+&lt;li>Videokonferenzen werden von den Anbietern mitgeschnitten oder live
+analysiert. Microsoft Teams bewirbt das Feature damit, dass &amp;ldquo;Belästigungen
+in Video-Chats&amp;rdquo; automatisiert ausgeblendet werden können.&lt;/li>
+&lt;li>Chats und Messenger werden mitgelesen und archiviert.&lt;/li>
+&lt;/ul>
+&lt;p>Dem Markt-Druck bzgl. Privatsphäre wurde zumindest bei kommerziellen
+Messengern inzwischen einigermaßen Rechnung getragen. Die meisten dieser
+Programme benutzen heute eine Ende-zu-Ende-Verschlüsselung, die ein
+Mitlesen verhindern soll.&lt;/p>
+&lt;p>Ich schreibe hier bewusst: soll. Da die meisten großen Betreiber in den USA
+sitzen (Facebook, Apple, Google, &amp;hellip;) hat die NSA hier die Hand drauf -
+diese Firmen sind Verpflichtungen gegenüber der NSA eingegangen, die auch
+bedeuten können, dass für diesen Geheimdienst eine Hintertür in den Programmen
+platziert wurde oder dass die NSA inzwischen in der Lage ist, die verwendete
+Verschlüsselung zu knacken. Bei WeChat (China) sollte man von vornherein
+gar keine Privatsphäre erwarten. WeChat wird auch zur sozialen Kontrolle
+eingesetzt - das schliesst vermutlich auch Mitlesen von Nachrichten ein.&lt;/p>
+&lt;h1 id="metadaten">Metadaten&lt;/h1>
+&lt;p>Kommen wir zu den Metadaten - was ist das?&lt;/p>
+&lt;p>Metadaten sind &amp;ldquo;Hilfsdaten&amp;rdquo;, die zwar nicht zur eigentlichen Kommunikation
+gehören, aber zur Abwicklung unbedingt nötig sind. Das sind zum Beispiel:&lt;/p>
+&lt;ul>
+&lt;li>Telefonieren: die Telefonnummern der Gesprächspartner, die Dauer des Gesprächs, welche Nummer
+das Gespräch begonnen hat&lt;/li>
+&lt;li>SMS: Sender und Empfänger der Nachricht, Länge der Nachricht, Sendezeit&lt;/li>
+&lt;li>E-Mail: Absender und Empfänger, Sendezeit, Kodierung der Nachricht, Empfangszeit,
+Server, über die die Mail zugestellt wurde , Länge der Nachricht&lt;/li>
+&lt;li>Messenger: Absender und Empfänger, Zeitpunkt der Sendung, Zeitpunkt des Lesens,
+Länge der Nachricht&lt;/li>
+&lt;li>Maps: besuchte Orte, Verweildauer, bevorzugte Orte, benutzte Wege, Bewegungs-Gewohnheiten,
+Fortbewegungsmittel (zu Fuss, Fahrrad, Auto/Motorrad, Bus/Bahn)&lt;/li>
+&lt;li>etc.&lt;/li>
+&lt;/ul>
+&lt;p>Diese Daten fallen in der Regel unverschlüsselt an, auch wenn die eigentliche Nachricht
+verschlüsselt übertragen wird. Bei einer einzelnen Nachricht ist das nicht so schlimm,
+aber wenn Sie sich vorstellen, dass Firmen und staatliche Stellen jeden Monat
+&lt;strong>Milliarden&lt;/strong> dieser Daten sammeln und diese dann für lange Zeit aufbewahren - erahnen Sie
+die Dimension der Gefahr, die davon ausgeht?&lt;/p>
+&lt;p>Schauen Sie sich noch einmal das Eingangszitat an und denken Sie darüber nach.&lt;/p>
+&lt;h1 id="gegenwehr">Gegenwehr&lt;/h1>
+&lt;p>Hier kommen wir zum wesentlichen Teil. Die Gegenwehr ist teilweise &lt;strong>erstaunlich einfach&lt;/strong>
+und wird trotzdem nicht unternommen - aus Bequemlichkeit.&lt;/p>
+&lt;p>Ja, Sicherheit und Privatsphäre erfordern ein Verlassen von Gewohntem, ein wenig Nachdenken,
+manchmal etwas Unbequemlichkeit und manchmal auch etwas finanziellen Aufwand.&lt;/p>
+&lt;h2 id="was-tun">Was tun?&lt;/h2>
+&lt;p>Das Hauptargument nichts zu tun ist in der Regel: Wenn ich etwas anderes benutze, kann ich nicht
+mehr mit meinen Freunden kommunizieren.&lt;/p>
+&lt;p>Ja, das kann sein. Dann muss man Arbeit (anstrengend) investieren, seine Freunde zu einem
+anderen System mitzunehmen. &lt;br>
+Eventuell muß man auch mehrere verschiedene Kommunikationskanäle benutzen - ich habe z.B.
+drei verschiedene Mail-Accounts mit verschiedenen Eigenschaften und benutze vier verschiedene
+Messenger-Programme. &lt;br>
+Das ist etwas &lt;strong>lästig&lt;/strong>, ohne Frage. Aber &lt;strong>es lohnt sich&lt;/strong>.&lt;/p>
+&lt;h2 id="soziale-netzwerke">Soziale Netzwerke&lt;/h2>
+&lt;p>Überlegen Sie sich genau, ob sie diese Zeitfresser wirklich brauchen.&lt;/p>
+&lt;p>Die meisten Netzwerke sind heutzutage eigentlich &amp;ldquo;Asoziale Netzwerke&amp;rdquo;, in denen sich
+Selbstdarsteller tummeln, die versuchen ihren Teil des Kuchens der Aufmerksamkeitsökonomie
+zu erhaschen. Dabei sind in der Regel Inhalte, Sprache und Haltung gegenüber dem
+Kommunikationspartner unter aller Sau. Entweder alle machen gemeinsam auf
+&amp;ldquo;Gruppen-Kuscheln&amp;rdquo; oder der Netzsadismus wird bis zum Unerträglichen ausgelebt.
+Interessante, ausgewogene Diskussionen bei denen die Teilnehmer mit Sachkenntnis
+glänzen habe ich schon lange nicht mehr erlebt.&lt;/p>
+&lt;p>Falls Sie also nicht ein solches Medium als Werbe-Träger für Ihr Geschäft brauchen:
+Tun Sie sich einen Gefallen und schalten sie diese Abfallhalden menschlicher
+Kommunikation ab. Nach dem ersten Trennungsschmerz werden Sie sich so unheimlich gut fühlen
+und auf einmal so viel mehr Zeit haben, dass es kaum zu glauben ist.&lt;/p>
+&lt;h2 id="e-mail">E-Mail&lt;/h2>
+&lt;p>Es ist kaum zu glauben, aber auch 25 Jahre nach der allgemeinen Verfügbarkeit
+verschlüsselter E-Mails versenden fast alle Menschen ihre Mails immer noch
+unverschlüsselt. Hier haben Sie mehrere Optionen:&lt;/p>
+&lt;ul>
+&lt;li>benutzen Sie frei verfügbare Verschlüsselungssysteme, z.B. unter Nutzung
+von &lt;a href="https://www.gnupg.org/gph/de/manual/">GNU Privacy Guard&lt;/a> - die
+&lt;a href="https://www.gnupg.org/">Hauptseite&lt;/a>
+enthält den Download-Link und Hinweise auf Plugins für E-Mail-Programme.&lt;br>
+Falls Sie Hilfe brauchen, suchen Sie jemanden, der Sie beraten kann.&lt;br>
+Auch einfach zu bedienende Kryptografie erfordert ein wenig Wissen.&lt;/li>
+&lt;li>Benutzen Sie Anbieter, die eine Verschlüsselung anbieten, zum Beispiel
+&lt;ul>
+&lt;li>ProtonMail (&lt;a href="https://protonmail.com/de/">https://protonmail.com&lt;/a>) - Schweiz&lt;/li>
+&lt;li>TutaNota (&lt;a href="https://tutanota.com/de/">https://tutanota.com/de/&lt;/a>) - Deutschland&lt;/li>
+&lt;li>Mailbox.org (&lt;a href="https://mailbox.org">https://mailbox.org/&lt;/a>) - Deutschland&lt;/li>
+&lt;li>Posteo (&lt;a href="https://posteo.de/">https://posteo.de/&lt;/a>) - Deutschland&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>verzichten Sie komplett auf E-Mail, Messenger funktionieren meistens ebenso gut&lt;/li>
+&lt;/ul>
+&lt;h2 id="messenger">Messenger&lt;/h2>
+&lt;p>Wie erwähnt, bieten die meisten Messenger zwar Verschlüsselung an, haben aber
+Metadaten, die anfallen. &lt;br>
+Hier hilft es schon, einen Anbieter zu wählen, der wenigstens gute Datenschutz-
+Bestimmungen hat. Vergleichen Sie einmal die Datenschutzbestimmungen von
+WhatsApp (Facebook) mit denen von Threema. Wenn Sie Ihre Privatsphäre ernst
+nehmen, können Sie nicht mit gutem gewissen WhatsApp benutzen.&lt;/p>
+&lt;p>Interessante Entwicklungen gibt es heute vor allem im Peer-to-Peer-Bereich,
+wo normalerweise keine Server an der Kommunikation beteiligt sind.&lt;/p>
+&lt;p>Gute Messenger (bzgl. Privatsphäre):&lt;/p>
+&lt;ul>
+&lt;li>Status (&lt;a href="https://status.im/">https://status.im/&lt;/a>) - komplett anonym nutzbar, kaum Metadaten, Peer-to-Peer&lt;/li>
+&lt;li>Signal (&lt;a href="https://signal.org/de/">https://signal.org/de/&lt;/a>) - gute Sicherheit, nicht anonym, nonprofit-Organisation&lt;/li>
+&lt;li>Tox (&lt;a href="https://tox.chat/">https://tox.chat/&lt;/a>) - anonym, peer-to-peer, verschlüsselt, wenig Metadaten&lt;/li>
+&lt;li>Threema (&lt;a href="https://threema.ch/">https://threema.ch/&lt;/a>) (kommerziell) - Schweiz, anonym nutzbar&lt;/li>
+&lt;li>Keybase (&lt;a href="https://keybase.io/">https://keybase.io/&lt;/a>) - Kryptografie leicht gemacht, kommerziell aber kostenlos - Zukunft unklar&lt;/li>
+&lt;li>Jami (&lt;a href="https://jami.net/">https://jami.net/&lt;/a>) - anonym, peer-to-peer, wenig Metadaten, noch etwas instabil&lt;/li>
+&lt;li>In Kürze verfügbar: Berty (&lt;a href="https://berty.tech/">https://berty.tech/&lt;/a>) - anonym, Peer-to-Peer, wenig Metadaten, ohne Internet nutzbar (Veranstaltungen, Demos etc.)&lt;/li>
+&lt;/ul>
+&lt;p>Viele Leute benutzen Telegram, allerdings ist nicht unbedingt nachvollziehbar, warum.
+Telegram ist schon gehackt worden, kann nicht anonym benutzt werden und das Geschäftsmodell
+des Betreibers (russischer Millionär) ist nicht wirklich klar. Ebenso scheint es keine
+Sicherheitsüberprüfungen des Programms gegeben zu haben. Von mir eine klare Empfehlung,
+Telegram nicht zu benutzen.&lt;/p>
+&lt;h2 id="google">Google&lt;/h2>
+&lt;p>Benutzen Sie Google-Dienste? Dann brauchen Sie sich über Privatshphäre keine Gedanken mehr machen.&lt;/p>
+&lt;p>Schließen Sie Ihren Google-Account, inklusive YouTube und benutzen Sie in Zukunft nur
+noch Suchmaschinen und Karten, die Ihre Privatsphäre respektieren. Es geht - nicht unbedingt so
+gut auf einem Android-Smartphone, aber reduzieren kann man seine Sichtbarkeit auf jeden Fall.&lt;/p>
+&lt;p>Suchmaschinen:&lt;/p>
+&lt;ul>
+&lt;li>DuckDuckGo (&lt;a href="https://duckduckgo.com/">https://duckduckgo.com/&lt;/a>)&lt;/li>
+&lt;li>StartPage (&lt;a href="https://startpage.com/">https://startpage.com/&lt;/a>)&lt;/li>
+&lt;li>YaCy (&lt;a href="https://yacy.net/">https://yacy.net/&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;p>Karten:&lt;/p>
+&lt;ul>
+&lt;li>OpenStreetMap (&lt;a href="https://www.openstreetmap.org/">https://www.openstreetmap.org/&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;p>Browser:&lt;/p>
+&lt;ul>
+&lt;li>Brave (&lt;a href="https://brave.com/">https://brave.com/&lt;/a>) - von Anfang an auf Privatsphäre eingestellt&lt;/li>
+&lt;li>Tor (&lt;a href="https://www.torproject.org/">https://www.torproject.org/&lt;/a>) - Ziel: Anonymität&lt;/li>
+&lt;li>Tails (&lt;a href="https://tails.boum.org/index.de.html">https://tails.boum.org/index.de.html&lt;/a>) - komplettes Betriebssystem, das keine Spuren beim Browsen hinterläßt&lt;/li>
+&lt;/ul>
+&lt;h2 id="heimische-geräte">Heimische Geräte&lt;/h2>
+&lt;p>Vermutlich ist Ihr Fernseher inzwischen auch ein sogenannter Smart-Fernseher, der über eine
+Internet-Verbindung verfügt.&lt;br>
+Damit wird Ihr gesamtes Fernseh-Verhalten für den Hersteller (und in der Regel auch weitere Firmen)
+sichtbar. Wenn Sie gerne Sex sehen, wissen die das, wenn Sie gerne Verbrechen sehen, wissen die
+das und wenn Sie bis Mitternacht vor der Glotze sitzen, wissen die das. Über riesige
+Werbe-Netzwerke werden die Daten abgeglichen und irgendwo kann man dann auch etwas über Sie
+finden, wo Ihre Identität feststellbar ist.&lt;/p>
+&lt;p>Oft haben die Fernbedienungen auch schon Mikrofone eingebaut, die als permanente Lausch-Station
+fungieren können oder fungieren.
+Tun Sie sich einen Gefallen: klemmen Sie den Fernseher vom Internet ab und schauen Sie Netflix
+oder Amazon über ein externes Gerät (z.B. BlueRay-Player). Die haben diese Möglichkeiten heute
+meistens eingebaut.&lt;/p>
+&lt;p>Dass sich die Echo-Dots und Google-Pods in der Wohnung verbieten, sollte sich von
+selbst erklären. Ebenso sollten Sie Ihr Handy (und evtl. auch ein modernes
+Festnetz-Telefon) nicht unbedingt dort aufbewahren, wo Sie sich unterhalten.&lt;/p>
+&lt;h2 id="dezentrale-web-nutzung-und-informationsverbreitung">Dezentrale Web-Nutzung und Informationsverbreitung&lt;/h2>
+&lt;p>In den letzten Jahren gab es eine Unmenge von Entwicklungen, um das World Wide Web
+aus den Klauen der Internet-Konzerne zu befreien und wieder ein dezentrales und
+nutzerbestimmtes Web zu erreichen (Stichwort web3). Mit sogenannten DApps (verteilte
+Anwendungen), die oftmals über Blockchains abgesichert werden können die Benutzer
+wieder die Hoheit über ihre eigenen Daten erlangen.&lt;/p>
+&lt;p>Techniken:&lt;/p>
+&lt;ul>
+&lt;li>FreeNet (&lt;a href="https://freenetproject.org/">https://freenetproject.org/&lt;/a>) - der Klassiker
+zur anonymen Informationsverbreitung und zur Realisierung von DarkNets &lt;br>
+DarkNet ist per se nichts schlechtes - das heißt nur, dass dieses Netz von aussen nicht zugänglich ist,
+genauso wie eine private Chat-Gruppe.&lt;/li>
+&lt;li>ZeroNet (&lt;a href="https://zeronet.io/">https://zeronet.io/&lt;/a>) - schon etwas älter, nutzt Bittorrent
+Technik und Bitcoin-Verschlüsselungstechnik um anonyme, nicht zensierbare Webseiten
+und andere Dienste realisieren zu können.&lt;/li>
+&lt;li>IPFS (&lt;a href="https://ipfs.io/">https://ipfs.io/&lt;/a>) &lt;br>
+Es gibt inzwischen schon Web-Betreiber die diese Technik einsetzen,
+&lt;a href="https://punkt.de/de/blog/2019/dezentral-mit-ipfs.html">hier&lt;/a> wird das Thema diskutiert.&lt;/li>
+&lt;/ul>
+&lt;p>Es gibt noch jede Menge gute neue Entwicklungen - es lohnt sich, hier ein Auge
+drauf zu haben.&lt;/p>
+&lt;h1 id="fazit">Fazit&lt;/h1>
+&lt;p>Sie haben es in der Hand, mit einigen kleinen Veränderungen Ihres eigenen Verhaltens und
+durch die Benutzung geeigneter Dienste und Programme Ihre Datenspur im Netz zu verringern.&lt;/p>
+&lt;p>Falls Sie immer noch nicht überzeugt sein sollten, schauen Sie sich die ersten zehn Minuten
+des Videos &lt;a href="https://vimeo.com/218456159">Nackt im Netz&lt;/a> an.&lt;/p></description></item><item><title>Angst</title><link>https://gedankensplitter.github.io/post/20200922-angst/</link><pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate><guid>https://gedankensplitter.github.io/post/20200922-angst/</guid><description>&lt;p>Viele merken es - Angst hat sich über die Bundesrepublik gelegt. Für die noch vorhandenen
 Reste der Demokratie ist das eine echte Gefahr.&lt;/p>
 &lt;p>Natürlich gibt es auch viele Menschen, die den Einleitungssatz weit von sich weisen
 würden. Ich kenne mehrere dieser Menschen, sowohl unter Kollegen als auch in der Familie.
