@@ -222,22 +222,38 @@ Telegram nicht zu benutzen.&lt;/p>
 &lt;p>Schließen Sie Ihren Google-Account, inklusive YouTube und benutzen Sie in Zukunft nur
 noch Suchmaschinen und Karten, die Ihre Privatsphäre respektieren. Es geht - nicht unbedingt so
 gut auf einem Android-Smartphone, aber reduzieren kann man seine Sichtbarkeit auf jeden Fall.&lt;/p>
-&lt;p>Suchmaschinen:&lt;/p>
+&lt;p>Alternative Suchmaschinen:&lt;/p>
 &lt;ul>
 &lt;li>DuckDuckGo (&lt;a href="https://duckduckgo.com/">https://duckduckgo.com/&lt;/a>)&lt;/li>
 &lt;li>StartPage (&lt;a href="https://startpage.com/">https://startpage.com/&lt;/a>)&lt;/li>
+&lt;li>ECOSIA (&lt;a href="https://ecosia.org/">https://ecosia.org/&lt;/a>)&lt;/li>
 &lt;li>YaCy (&lt;a href="https://yacy.net/">https://yacy.net/&lt;/a>)&lt;/li>
 &lt;/ul>
-&lt;p>Karten:&lt;/p>
+&lt;p>Alternative Karten:&lt;/p>
 &lt;ul>
 &lt;li>OpenStreetMap (&lt;a href="https://www.openstreetmap.org/">https://www.openstreetmap.org/&lt;/a>)&lt;/li>
 &lt;/ul>
-&lt;p>Browser:&lt;/p>
+&lt;p>Alternative Browser:&lt;/p>
 &lt;ul>
 &lt;li>Brave (&lt;a href="https://brave.com/">https://brave.com/&lt;/a>) - von Anfang an auf Privatsphäre eingestellt&lt;/li>
 &lt;li>Tor (&lt;a href="https://www.torproject.org/">https://www.torproject.org/&lt;/a>) - Ziel: Anonymität&lt;/li>
 &lt;li>Tails (&lt;a href="https://tails.boum.org/index.de.html">https://tails.boum.org/index.de.html&lt;/a>) - komplettes Betriebssystem, das keine Spuren beim Browsen hinterläßt&lt;/li>
 &lt;/ul>
+&lt;p>YouTube-Alternativen:&lt;/p>
+&lt;ul>
+&lt;li>LBRY&lt;br>
+Am besten mit der &lt;a href="https://lbry.com/">Desktop-App&lt;/a> zu verwenden. Damit unterstützen
+Sie gleichzeitig die Zensur-Resistenz und den schnellen Download für die angebotenen
+Inhalte. &lt;br>
+Alternative Zugänge (ohne Software-Installation) sind &lt;a href="https://lbry.tv/">LBRY TV&lt;/a>
+und &lt;a href="https://odysee.com/">Odysse&lt;/a>.&lt;/li>
+&lt;li>BitChute&lt;br>
+Eine weitere Peer-To-Peer-Videoplattform. (&lt;a href="https://www.bitchute.com/">https://www.bitchute.com/&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="ebay">Ebay&lt;/h2>
+&lt;p>Auch Ebay (und Ebay Kleinanzeigen) gehören zu den ganz großen Datensammlern.&lt;/p>
+&lt;p>Eine sehr gute Alternative ist &lt;a href="https://openbazaar.com">OpenBazaar&lt;/a>.
+Auch hier wieder: es hilft dem Netzwerk, wenn Sie sich die Desktop-App installieren.&lt;/p>
 &lt;h2 id="heimische-geräte">Heimische Geräte&lt;/h2>
 &lt;p>Vermutlich ist Ihr Fernseher inzwischen auch ein sogenannter Smart-Fernseher, der über eine
 Internet-Verbindung verfügt.&lt;br>
